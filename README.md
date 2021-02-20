@@ -7,4 +7,4 @@
 ##### ```BinaryConvertor.php``` in the ```src/Utils``` has implemented for tranlating r2d2 bot messages
 
 ## fully tested
-#### all functionalities have unit test. here ```tests\tests```
+#### all functionalities have unit test with phpunit.You could find more here ```tests\tests```
