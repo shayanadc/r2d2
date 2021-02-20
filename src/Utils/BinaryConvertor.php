@@ -4,6 +4,8 @@
 namespace App\Utils;
 
 
+use GuzzleHttp\Client;
+
 class BinaryConvertor
 {
     private function makeCharFrom($binaryCode)

@@ -5,7 +5,6 @@ namespace App\Utils;
 
 
 use GuzzleHttp\Client;
-use Symfony\Component\HttpFoundation\Exception\BadRequestException;
 
 class BotApiConnector
 {
